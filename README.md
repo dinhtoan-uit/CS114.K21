@@ -4,4 +4,4 @@ Full Name: Đinh Thanh Toàn
 ID: 18521504
 
 Pic of me:
-<img src = "https://imgur.com/c1n3rFn">
+<img src = "https://i.imgur.com/c1n3rFn.jpg">
